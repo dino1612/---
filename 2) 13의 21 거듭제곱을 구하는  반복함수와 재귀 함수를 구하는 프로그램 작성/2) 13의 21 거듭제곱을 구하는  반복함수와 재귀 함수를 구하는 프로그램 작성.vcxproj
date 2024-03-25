@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{07e9d2fa-68f2-42b0-844a-859e9c8d28f1}</ProjectGuid>
-    <RootNamespace>과제반복재귀프로그램</RootNamespace>
+    <ProjectGuid>{07ada9e7-2969-4288-9d44-b2c9c498bf82}</ProjectGuid>
+    <RootNamespace>My213의21거듭제곱을구하는반복함수와재귀함수를구하는프로그램작성</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="과제 반복프로그램.cpp" />
+    <ClCompile Include="2) 13의 21 거듭제곱을 구하는  반복함수와 재귀 함수를 구하는 프로그램 작성.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

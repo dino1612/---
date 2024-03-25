@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34707.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "과제 반복-재귀 프로그램", "과제 반복-재귀 프로그램\과제 반복-재귀 프로그램.vcxproj", "{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "재귀 프로그래밍", "재귀 프로그래밍\재귀 프로그래밍.vcxproj", "{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2) 13의 21 거듭제곱을 구하는  반복함수와 재귀 함수를 구하는 프로그램 작성", "2) 13의 21 거듭제곱을 구하는  반복함수와 재귀 함수를 구하는 프로그램 작성\2) 13의 21 거듭제곱을 구하는  반복함수와 재귀 함수를 구하는 프로그램 작성.vcxproj", "{07ADA9E7-2969-4288-9D44-B2C9C498BF82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Debug|x64.ActiveCfg = Debug|x64
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Debug|x64.Build.0 = Debug|x64
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Debug|x86.ActiveCfg = Debug|Win32
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Debug|x86.Build.0 = Debug|Win32
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Release|x64.ActiveCfg = Release|x64
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Release|x64.Build.0 = Release|x64
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Release|x86.ActiveCfg = Release|Win32
+		{07E9D2FA-68F2-42B0-844A-859E9C8D28F1}.Release|x86.Build.0 = Release|Win32
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Debug|x64.ActiveCfg = Debug|x64
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Debug|x64.Build.0 = Debug|x64
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Debug|x86.ActiveCfg = Debug|Win32
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Debug|x86.Build.0 = Debug|Win32
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Release|x64.ActiveCfg = Release|x64
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Release|x64.Build.0 = Release|x64
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Release|x86.ActiveCfg = Release|Win32
+		{30A39CDB-8B8D-4C4A-A8B3-9DA9E20FFEED}.Release|x86.Build.0 = Release|Win32
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Debug|x64.ActiveCfg = Debug|x64
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Debug|x64.Build.0 = Debug|x64
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Debug|x86.ActiveCfg = Debug|Win32
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Debug|x86.Build.0 = Debug|Win32
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Release|x64.ActiveCfg = Release|x64
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Release|x64.Build.0 = Release|x64
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Release|x86.ActiveCfg = Release|Win32
+		{07ADA9E7-2969-4288-9D44-B2C9C498BF82}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E963627-A7FA-4ECF-B2AE-F38296F2EF08}
+	EndGlobalSection
+EndGlobal

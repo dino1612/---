@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="과제 반복프로그램.cpp">
+    <ClCompile Include="2) 13의 21 거듭제곱을 구하는  반복함수와 재귀 함수를 구하는 프로그램 작성.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
